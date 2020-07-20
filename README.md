@@ -1,36 +1,5 @@
 # gilded-rose
+Clojure implementation of the gilded rose kata, illustrating how simple the problem can be when you're not wasting time trying to figure out how to use design patterns, class wrappers, etc. as required in the original C# code.  
 
-FIXME: description
+See https://github.com/emilybache/GildedRose-Refactoring-Kata for a collection of implementations across different languages.  Most do not implement a test suite as that is part of the exercise, this repo includes the tests I felt necessary to cover all the cases.
 
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar gilded-rose-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2020 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
